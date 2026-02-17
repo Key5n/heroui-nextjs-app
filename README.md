@@ -1,3 +1,7 @@
+This repository is tied to this issue in HeroUI: https://github.com/heroui-inc/heroui/issues/6238
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
